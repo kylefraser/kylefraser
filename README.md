@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+Web Developer @ Starburst
+
+
+<a href="https://starburst.io/"><img src="https://www.starburst.io/wp-content/themes/starburst-theme/includes/img/starburst_logo.png" title="starburst.io" width="150px" /></a>
+
 <!--
 **kylefraser/kylefraser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
