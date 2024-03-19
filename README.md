@@ -1,6 +1,6 @@
 ###### Hello 👋
 
-#### Web Developer @ Starburst
+#### Senior Web Developer @ Starburst
 <a href="https://starburst.io/"><img src="https://www.starburst.io/wp-content/themes/starburst-theme/includes/img/starburst_logo.png" title="starburst.io" width="150px" /></a>
 ---
 ###### 📫 <a href="mailto:kyle.fraser@starburst.io" target="_blank">kyle.fraser@starburst.io</a>
