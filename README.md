@@ -1,7 +1,7 @@
 ###### Hello 👋
 
 ---
-###### 📫 <a href="mailto:kyle.fraser@starburst.io" target="_blank">kyle.fraser@starburst.io</a>
+###### 📫 <a href="mailto:fraserkc@gmail.com" target="_blank">fraserkc@gmail.com</a>
 
 <!--
 **kylefraser/kylefraser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
